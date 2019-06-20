@@ -37,10 +37,21 @@
 
 - [A Unified Linear-Time Framework for Sentence-Level Discourse Parsing (ACL 2019)]()
 
+- [Transition-based Neural RST Parsing with Implicit Syntax Features (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1047/)
+
 
 ## EDU Segment 
 
 - [SegBot: A Generic Neural Text Segmentation Model with Pointer Network (IJCAI 2018)]()
+
+
+## Nuclearity in Chinese Discourse
+
+- [基于门控记忆网络的汉语篇章主次关系识别方法 (中文信息学报 2019)]()
+
+- [Employing Text Matching Network to Recognise Nuclearity in Chinese Discourse (Coling 2018)](http://www.aclweb.org/anthology/C18-1044)
+
+- [自然语言处理中的篇章主次关系研究 (计算机学报 2017)]()
 
 
 ## Data
