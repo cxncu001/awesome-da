@@ -39,6 +39,7 @@
 
 - [Transition-based Neural RST Parsing with Implicit Syntax Features (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1047/)
 
+- [A Two-Stage Parsing Method for Text-Level Discourse Analysis (ACL 2017)](http://aclweb.org/anthology/P17-2029)
 
 ## EDU Segment 
 
