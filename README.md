@@ -1,6 +1,6 @@
 # Awesome for Discourse Analysis
 
-# Implicit Discourse Relation Recognition
+## Implicit Discourse Relation Recognition
 
 -[Deep Enhanced Representation for Implicit Discourse Relation Recognition (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1048/), [Code](https://github.com/hxbai/Deep_Enhanced_Repr_for_IDRR)
 
@@ -14,11 +14,11 @@ Motivation:
 
 Conclusions:
 
-# Tree Structure
+## Tree Structure
 
 To be continued ..
 
-# EDU Segment 
+## EDU Segment 
 
 To be continued ..
 
