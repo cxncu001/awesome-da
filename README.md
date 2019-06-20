@@ -58,9 +58,3 @@
 ## Data
 
 To be continued ...
-
-
-## Results
-Model          | Results reported in papers  
-------------   | -------------               
-XXX            | XXX                         
