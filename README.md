@@ -2,11 +2,18 @@
 
 ## Implicit Discourse Relation Recognition
 
+- [Linguistic Properties Matter for Implicit Discourse Relation Recognition: Combining Semantic Interaction, Topic Continuity and Attribution (AAAI 2018)]()
+
+
 - [Deep Enhanced Representation for Implicit Discourse Relation Recognition (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1048/), [Code](https://github.com/hxbai/Deep_Enhanced_Repr_for_IDRR)
 
 
-
 - [A Knowledge-Augmented Neural Network Model for Implicit Discourse Relation Classification (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1049/)
+
+- [Implicit Discourse Relation Recognition using Neural Tensor Network with Interactive Attention and Sparse Learning (Coling 2018)]
+
+
+- [Using Active Learning to Expand Training Data for Implicit Discourse Relation Recognition (EMNLP 2018)]
 
 
 - [Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph (NAACL 2018)](https://aclweb.org/anthology/papers/N/N18/N18-1013/), [Code](https://github.com/ZeyuDai/paragraph-level_implicit_discourse_relation_classification)
