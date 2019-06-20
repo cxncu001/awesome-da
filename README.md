@@ -10,49 +10,49 @@
 
 - A Knowledge-Augmented Neural Network Model for Implicit Discourse Relation Classification (Coling 2018). [Paper](https://aclweb.org/anthology/papers/C/C18/C18-1049/)
 
-- [Implicit Discourse Relation Recognition using Neural Tensor Network with Interactive Attention and Sparse Learning (Coling 2018)]()
+- Implicit Discourse Relation Recognition using Neural Tensor Network with Interactive Attention and Sparse Learning (Coling 2018). [Paper]()
 
 
-- [Using Active Learning to Expand Training Data for Implicit Discourse Relation Recognition (EMNLP 2018)]()
+- Using Active Learning to Expand Training Data for Implicit Discourse Relation Recognition (EMNLP 2018). [Paper]()
 
 
-- [Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph (NAACL 2018)](https://aclweb.org/anthology/papers/N/N18/N18-1013/), [Code](https://github.com/ZeyuDai/paragraph-level_implicit_discourse_relation_classification)
+- Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph (NAACL 2018). [Paper](https://aclweb.org/anthology/papers/N/N18/N18-1013/), [Code](https://github.com/ZeyuDai/paragraph-level_implicit_discourse_relation_classification)
 
-- [Adversarial Connective-exploiting Networks for Implicit Discourse Relation Classification (ACL 2017)](https://aclweb.org/anthology/papers/P/P17/P17-1093/), [Code](https://github.com/qkaren/Adversarial-Network-for-Discourse-ACL2017)
+- Adversarial Connective-exploiting Networks for Implicit Discourse Relation Classification (ACL 2017). [Paper](https://aclweb.org/anthology/papers/P/P17/P17-1093/), [Code](https://github.com/qkaren/Adversarial-Network-for-Discourse-ACL2017)
 
-- [Improving Implicit Discourse Relation Recognition with Discourse-specific Word Embeddings (ACL 2017)](https://aclweb.org/anthology/papers/P/P17/P17-2042/)
+- Improving Implicit Discourse Relation Recognition with Discourse-specific Word Embeddings (ACL 2017). [Paper](https://aclweb.org/anthology/papers/P/P17/P17-2042/)
 
-- [Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification (EMNLP 2017)]()
+- Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification (EMNLP 2017)]. [Paper]()
 
-- [SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition (IJCAI 2017)]()
+- SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition (IJCAI 2017). [Paper]()
 
-- [Implicit Discourse Relation Classification via Multi-Task Neural Networks (AAAI 2016)]()
+- Implicit Discourse Relation Classification via Multi-Task Neural Networks (AAAI 2016). [Paper]()
 
-- [Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition (EMNLP 2016)]()
+- Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition (EMNLP 2016). [Paper]()
 
-- [Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition (EMNLP 2015)]()
+- Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition (EMNLP 2015). [Paper]()
 
 
 ## Tree Structure
 
-- [A Unified Linear-Time Framework for Sentence-Level Discourse Parsing (ACL 2019)]()
+- A Unified Linear-Time Framework for Sentence-Level Discourse Parsing (ACL 2019). [Paper]()
 
-- [Transition-based Neural RST Parsing with Implicit Syntax Features (Coling 2018)](https://aclweb.org/anthology/papers/C/C18/C18-1047/)
+- Transition-based Neural RST Parsing with Implicit Syntax Features (Coling 2018). [Paper](https://aclweb.org/anthology/papers/C/C18/C18-1047/)
 
-- [A Two-Stage Parsing Method for Text-Level Discourse Analysis (ACL 2017)](http://aclweb.org/anthology/P17-2029)
+- A Two-Stage Parsing Method for Text-Level Discourse Analysis (ACL 2017). [Paper](http://aclweb.org/anthology/P17-2029)
 
 ## EDU Segment 
 
-- [SegBot: A Generic Neural Text Segmentation Model with Pointer Network (IJCAI 2018)]()
+- SegBot: A Generic Neural Text Segmentation Model with Pointer Network (IJCAI 2018). [Paper]()
 
 
 ## Nuclearity in Chinese Discourse
 
-- [基于门控记忆网络的汉语篇章主次关系识别方法 (中文信息学报 2019)]()
+- 基于门控记忆网络的汉语篇章主次关系识别方法 (中文信息学报 2019). [Paper]()
 
-- [Employing Text Matching Network to Recognise Nuclearity in Chinese Discourse (Coling 2018)](http://www.aclweb.org/anthology/C18-1044)
+- Employing Text Matching Network to Recognise Nuclearity in Chinese Discourse (Coling 2018). [Paper](http://www.aclweb.org/anthology/C18-1044)
 
-- [自然语言处理中的篇章主次关系研究 (计算机学报 2017)]()
+- 自然语言处理中的篇章主次关系研究 (计算机学报 2017). [Paper]()
 
 
 ## Data
