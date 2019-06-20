@@ -25,13 +25,16 @@
 
 - [Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition (EMNLP 2015)]()
 
+
 ## Tree Structure
 
-To be continued ..
+- [A Unified Linear-Time Framework for Sentence-Level Discourse Parsing (ACL 2019)]()
+
 
 ## EDU Segment 
 
-To be continued ..
+- [SegBot: A Generic Neural Text Segmentation Model with Pointer Network (IJCAI 2018)]()
+
 
 ## Data
 
